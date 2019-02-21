@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week2Day3HomeWork</string>
+    <string name="hello">hello</string>
+    <string name="goodbye">goodbye</string>
+    <string name="no">hi</string>
+    <string name="bye">bye</string>
+    <string name="today">today</string>
+</resources>

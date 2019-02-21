@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week2Day3HomeWork</string>
+    <string name="hello">hola</string>
+    <string name="goodbye">adios</string>
+    <string name="no">no</string>
+    <string name="bye">asta luego</string>
+    <string name="today">hoy</string>
+</resources>
